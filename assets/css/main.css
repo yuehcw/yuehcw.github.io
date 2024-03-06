@@ -2700,6 +2700,10 @@ input, select, textarea {
 				padding: 0 15px 0 15px;
 			}
 
+			.home-container {
+				padding: 0 15px 0 15px;
+			}
+
 		/* List */
 
 			ul.icons a {
@@ -2720,6 +2724,11 @@ input, select, textarea {
 				#main section.cover header {
 					padding: 0 1em;
 				}
+
+				#main section.cover .profile-middle {
+					padding: 0 1em;
+				}
+
 
 		/* Footer */
 
