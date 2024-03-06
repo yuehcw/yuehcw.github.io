@@ -254,13 +254,13 @@ input, select, textarea {
 
 	.profile-top {
 		flex: 1;
-		padding-bottom: 3em;
+		padding-bottom: 5rem;
 	}
 
 	.profile-middle {
 		flex: 1;
-		padding-right: 20em;
-		padding-left: 20em;
+		padding-right: 25rem;
+		padding-left: 25rem;
 	}
 
 	.profile-bottom {
