@@ -240,11 +240,31 @@ input, select, textarea {
 		flex-direction: row;
 	}
 
+	.home-container {
+		display: flex;
+		flex-direction: column;
+	}
+
 	.icon-container {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		margin-top: 3em;
+	}
+
+	.profile-top {
+		flex: 1;
+		padding-bottom: 3em;
+	}
+
+	.profile-middle {
+		flex: 1;
+		padding-right: 20em;
+		padding-left: 20em;
+	}
+
+	.profile-bottom {
+		flex: 1;
 	}
 
 	.left {
