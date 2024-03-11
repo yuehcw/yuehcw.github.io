@@ -2686,6 +2686,29 @@ input, select, textarea {
 
 		/* Basic */
 
+		.icon-container {
+			font-size: 0.65em;
+		}
+
+		.github_logo {
+			height: 30%;
+			width: 30%;
+			margin-left: 10em;
+		}
+
+		.left-education > img {
+			height: 8em;
+			width: 8em;
+		}
+
+		.right-education {
+			font-size: 0.8em;
+		}
+
+		.flex-container {
+			padding: 0.1em;
+		}
+
 			body, input, textarea, select {
 				font-size: 14pt;
 			}
