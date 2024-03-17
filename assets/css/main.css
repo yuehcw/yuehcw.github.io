@@ -2696,15 +2696,18 @@ input, select, textarea {
 		}
 
 		.github_logo {
-			height: 30%;
-			width: 30%;
-			margin-left: 10em;
+			height: 18%;
+			width: 18%;
+			margin-top: 1em;
+			margin-left: 0;
 		}
 
 		.left-education > img {
-			height: 8em;
-			width: 8em;
+			height: 7.7em;
+			width: 8.5em;
+			margin-bottom: 1.5em;
 		}
+
 
 		.right-education {
 			font-size: 0.8em;
@@ -2772,4 +2775,47 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+
+		/* Flex-box */
+
+			.flex-container {
+				flex-direction: column;
+			}
+
+			h4 {
+				text-align: center;
+			}
+
+			h5 {
+				text-align: center;
+			}
+
+			h6 {
+				text-align: center;
+			}
+
+		ul.bachelor {
+			list-style-position: inside; /* Position the bullet inside the content flow */
+			text-align: center; /* Center the text and the bullet */
+			padding: 0; /* Remove default padding */
+			margin: 0; /* Remove default margin */
+		}
+
+		ul.associate {
+			list-style-position: inside; /* Position the bullet inside the content flow */
+			text-align: center; /* Center the text and the bullet */
+			padding: 0; /* Remove default padding */
+			margin: 0; /* Remove default margin */
+		}
+
+		ul.master {
+			list-style-position: inside; /* Position the bullet inside the content flow */
+			text-align: center; /* Center the text and the bullet */
+			padding: 0; /* Remove default padding */
+			margin: 0; /* Remove default margin */
+		}
+
+		p {
+			text-align: left;
+		}
 	}
