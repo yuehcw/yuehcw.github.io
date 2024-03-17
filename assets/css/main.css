@@ -2347,6 +2347,11 @@ input, select, textarea {
 				font-weight: bold;
 			}
 
+			.underline {
+				text-decoration: underline;
+				text-decoration-color: rgba(192, 191, 191, 0.55);
+			}
+
 			.github_logo {
 				width: 17%;
 				height: 12.5%;
